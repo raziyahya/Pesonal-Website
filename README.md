@@ -1,6 +1,4 @@
-Personal Website done using  HTML, its a responsive one done using bootstrap framework
-You can run this by importing it to visual studio
-Add url for submission in url tag seen last part of the code
+A simple personal website done using HTML, its a responsive one done using bootstrap framework
 
 
 ![Screenshot (16)](https://user-images.githubusercontent.com/86314686/190994648-9da2af76-0f73-4bab-a056-9c0eabd5a690.png)
